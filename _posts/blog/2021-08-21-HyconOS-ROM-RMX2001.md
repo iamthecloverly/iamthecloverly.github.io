@@ -1,0 +1,82 @@
+---
+layout: post
+title: "HyconOS 4.5 | Elegant | ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+description: ""
+categories: [ROMs]
+tags: [HyconOS, RMX2001]
+redirect_from:
+  - /21/08/21/
+---
+
+![HyconOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/HyconOS.jpg?raw=true)
+
+**Hycon OS** is AOSP Based ROM with many pixel features & Customizations. We always try to improve it's stability and performance for better & smooth, lagfree experience.
+
+### Changelog
+==== 21st August, 2021 ====
+
+* Merged August ASB (android-11.0.0_r40) .
+* Improved status bar padding
+* Added Realme Dirac support .
+* Enhanced Stability and overall performance of device.
+* Misc Improvements
+* Shipped with N.E.O.L.I.T-V2 kernel.
+* Added fps: indicator in FPS overaly.
+
+### Working features:
+<details>
+* VoLTE, Wifi calling
+* Fingerprint sensor
+* WiFi
+* Bluetooth
+* SELinux
+* RIL (Data,SMS,Calls)
+* Camera
+* Camcorder
+* Audio
+* GPS
+* NFC
+* Sensors
+* Video Playback
+* ZRAM
+* Internal audio recording
+* Faceunlock
+* Safetynet without magisk
+* DT2W
+* EngineerMode
+</details>
+
+### Known issues
+* Night light flickers
+
+### Screenshots
+**Screenshots** - [ClickHere](https://t.me/TheCloverly_Projects/183)
+
+### Downloads
+**Gapps** - [Download](https://www.pling.com/p/1544683/)
+
+### Join my telegram channel to get latest updates          
+* [Click here](https://t.me/TheCloverly_Releases)
+
+### Support group
+* [Join NoW](https://t.me/SriBalajiHub)
+
+### How to Flash ?
+**Instructions**
+
+1) Boot into custom recovery 
+
+2) Format data
+
+3) Flash latest build
+
+4) Reboot your device 
+
+### Device info
+* **Kernel** - 4.14.x
+* **Chipset** - Mediatek MT6785 Helio G90T
+
+### Sources
+* **Device tree** - [Click here](https://github.com/ManshuTyagi/device_realme_RMX2001)
+* **Kernel source** - [Click here](https://github.com/ManshuTyagi/kernel_realme_RMX2001)
+* **Thanks to @SamarV121 for Trees**
