@@ -24,16 +24,16 @@ redirect_from:
 ### Screenshots
 <details>
 <div id="images">
-<img class="screenshot" src="https://imgur.com/y4KxiU1.jpg">
-<img class="screenshot" src="https://imgur.com/n1hXYYk.jpg">
-<img class="screenshot" src="https://imgur.com/ddWIXOb.jpg">
-<img class="screenshot" src="https://imgur.com/cXkpCTz.jpg">
-<img class="screenshot" src="https://imgur.com/57duLX8.jpg">
-<img class="screenshot" src="https://imgur.com/q2vwuSd.jpg">
-<img class="screenshot" src="https://imgur.com/tYdfgZK.jpg">
-<img class="screenshot" src="https://imgur.com/X6JKqP3.jpg">
-<img class="screenshot" src="https://imgur.com/vMAmRM4.jpg">
-<img class="screenshot" src="https://imgur.com/3LASgL8.jpg">
+<img class="screenshot" src="https://imgur.com/y4KxiU1.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/n1hXYYk.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/ddWIXOb.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/cXkpCTz.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/57duLX8.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/q2vwuSd.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/tYdfgZK.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/X6JKqP3.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/vMAmRM4.jpg" alt="Screenshots">
+<img class="screenshot" src="https://imgur.com/3LASgL8.jpg" alt="Screenshots">
 </div>
 </details>
 
