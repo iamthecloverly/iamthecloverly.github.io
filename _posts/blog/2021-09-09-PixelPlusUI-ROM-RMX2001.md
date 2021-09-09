@@ -67,6 +67,8 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 </ul></p>
 </details>
 
+### Screenshots: [ClickHere](https://t.me/TheCloverly_Projects/251)
+
 ### Working features
 * VoLTE, Wifi calling
 * Fingerprint sensor
