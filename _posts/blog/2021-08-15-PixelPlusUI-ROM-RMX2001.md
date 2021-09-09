@@ -4,8 +4,7 @@ date: 2021-08-15 12:30:00 +/-0800
 description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
 tags: [PixelPlusUI, PPUI, RMX2001]
-redirect_from:
-  - /15/08/2021/
+
 ---
 
 ![PixelPlusUI](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/PPUI_v3.6.jpg?raw=true)
