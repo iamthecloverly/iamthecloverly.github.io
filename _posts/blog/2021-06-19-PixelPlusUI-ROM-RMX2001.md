@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "PixelPlusUI v3.6 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+date: 2021-06-19 12:30:00 +/-0800
 description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
 tags: [PixelPlusUI, PPUI, RMX2001]
-redirect_from:
-  - /19/06/2021/
+
 ---
 
 ![PixelPlusUI](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/PPUI_v3.6.jpg?raw=true)
