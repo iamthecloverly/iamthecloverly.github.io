@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "HyconOS 4.5 | Elegant | ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
-description: ""
+date: 2021-08-21 12:30:00 +/-0800
 categories: [ROMs]
 tags: [HyconOS, RMX2001]
-redirect_from:
-  - /21/08/21/
 ---
 
 ![HyconOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/HyconOS.jpg?raw=true)

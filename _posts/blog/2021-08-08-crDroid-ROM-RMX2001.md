@@ -1,11 +1,9 @@
 ---
-layout: post
 title: "crDroid v7.9 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
-description: "RMX2001: August Update"
+date: 2021-08-08 12:30:00 +/-0800
 categories: [ROMs]
 tags: [crDroid, RMX2001]
-redirect_from:
-  - /08/08/21/
+
 ---
 
 ![crDroid](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/crDroid.jpg?raw=true)
@@ -13,13 +11,50 @@ redirect_from:
 **crDroid** is designed to improve the performance, reliability and customizability of stock Android.crDroid uses LineageOS as base. We try to keep in sync with LineageOS source while also adding lots of customizations for you to choose from.As crDroid is based on LineageOS, which is also based on stock Android, we can say crDroid is going to keep updates flowing as long as LineageOS and Google do.
 
 ### Changelog
-==== 08th August, 2021 ====
 
-- Shipped with N.E.O.L.I.T-V2 kernel.
-- Compiled with clang 11.
-- Merged August security patch.
-- Some other improvements and bug fixes.
-- crDroidAndroid source upstream.
+<details>
+<summary>08th August, 2021</summary>
+<p><ul>
+<li> Shipped with N.E.O.L.I.T-V2 kernel.</li>
+<li> Compiled with clang 11.</li>
+<li> Merged August security patch.</li>
+<li> Some other improvements and bug fixes.</li>
+<li> crDroidAndroid source upstream.</li>
+</ul></p>
+</details>
+
+<details>
+<summary>15th July, 2021</summary>
+<p><ul>
+<li>Merged July ASB (android11.0.0_r39)</li>
+<li>crDroid source upstream.</li>
+<li>Added performance profiles.</li>
+<li>Added GCam GO as prebuilt app.</li>
+<li>Added FPS overlay in RealmeParts.</li>
+<li>Replaced GameMode with PerformanceProfile along with the addition of PowerSaving profile.</li>
+<li>Swtiched to basic Gapps.</li>
+<li>Some other improvements and bug fixes.</li>
+<li>Added Google Photos unlimited original resolution support.</li>
+</ul></p>
+</details>
+
+<details>
+<summary>20th June, 2021</summary>
+<p><ul>
+<li>Merged June ASB (android11.0.0_r38) </li>
+<li>crDroid source upstream.</li>
+<li>Removed prebuilt apps added by me. </li>
+<li>Added performance profiles. </li>
+<li>Added GCam GO as prebuiltapp.</li>
+<li>Enabled VOOC suppourt from source.</li>
+<li>Fixed blur</li>
+<li>Fixed long press key reboot. </li>
+<li>Fixed audio in Wifi calls. </li>
+<li>Source Built kernel.</li>
+<li>Some other improvements and bug fixes.</li>
+<li>Misc improvements.</li>
+</ul></p>
+</details>
 
 ### Working features:
 * VoLTE, Wifi calling

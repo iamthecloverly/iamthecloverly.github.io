@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "crDroid v7.9 ROM  For Realme 7/ Narzo 20 Pro [OFFICIAL]"
-description: ""
+date: 2021-08-12 12:30:00 +/-0800
 categories: [ROMs]
 tags: [crDroid, RMX2151, Realme 7, Narzo 20 pro]
-redirect_from:
-  - /15/07/21/
 ---
 
 ![crDroid](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/crDroid.jpg?raw=true)
@@ -13,13 +10,26 @@ redirect_from:
 **crDroid** is designed to improve the performance, reliability and customizability of stock Android.crDroid uses LineageOS as base. We try to keep in sync with LineageOS source while also adding lots of customizations for you to choose from.As crDroid is based on LineageOS, which is also based on stock Android, we can say crDroid is going to keep updates flowing as long as LineageOS and Google do.
 
 ### Changelog
-==== 12th August, 2021 ====
 
-- Shipped with N.E.O.L.I.T-V2 kernel.
-- Enabled VOOC suppourt from source.
-- Merged August security patch.
-- Some other improvements and bug fixes.
-- crDroidAndroid source upstream.
+<details>
+<summary>12th August, 2021</summary>
+<p><ul>
+<li> Shipped with N.E.O.L.I.T-V2 kernel.</li>
+<li> Enabled VOOC suppourt from source.</li>
+<li> Merged August security patch.</li>
+<li> Some other improvements and bug fixes.</li>
+<li> crDroidAndroid source upstream.</li>
+</ul></p>
+</details>
+
+<details>
+<summary>15th July, 2021</summary>
+<p><ul>
+<li>Initial Official Build.</li>
+<li>Merged July ASB (android-11.0.0_r39)</li>
+<li>crDroid source upstream.</li>
+</ul></p>
+</details>
 
 ### Working features:
 * VoLTE, Wifi calling
