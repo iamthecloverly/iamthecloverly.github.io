@@ -23,6 +23,33 @@ redirect_from:
 * Shipped with N.E.O.L.I.T-V2 kernel.
 * Added fps: indicator in FPS overaly.
 
+<details>
+<summary>11th July, 2021</summary>
+<p><ul>
+<li> Merge July security patch</li>
+<li> HyconOS source Upstream</li>
+<li> Improved performance </li>
+<li> Some misc addition</li>
+<li> Some other improvements and bug fixes.</li>
+<li> Misc improvements.</li>
+</ul></p>
+</details>
+
+<details>
+<summary>25th June, 2021</summary>
+<p><ul>
+<li> Merged June ASB (android-11.0.0_r38) </li>
+<li>Hycon OS source upstream.</li>
+<li>Added GCam GO as prebuilt-app.</li>
+<li>Fixed blur</li>
+<li>Fixed long press key reboot.</li>
+<li>Fixed audio in Wifi calls.</li>
+<li>Source Built kernel.</li>
+<li>Some other improvements and bug fixes.</li>
+<li>Misc improvements.</li>
+</ul></p>
+</details>
+
 ### Working features:
 <details>
 * VoLTE, Wifi calling
