@@ -13,6 +13,17 @@ tags: [crDroid, RMX2001]
 ### Changelog
 
 <details>
+<summary>11th September, 2021</summary>
+<p><ul>
+<li> Shipped with N.E.O.L.I.T-V3 kernel.</li>
+<li> Compiled with clang 13.</li>
+<li> Merged September security patch.</li>
+<li> Some other improvements and bug fixes.</li>
+<li> crDroidAndroid source upstream.</li>
+</ul></p>
+</details>
+
+<details>
 <summary>08th August, 2021</summary>
 <p><ul>
 <li> Shipped with N.E.O.L.I.T-V2 kernel.</li>
