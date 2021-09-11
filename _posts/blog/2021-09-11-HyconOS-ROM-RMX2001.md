@@ -1,6 +1,6 @@
 ---
 title: "HyconOS 4.5 | Elegant | ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
-date: 2021-08-21 12:30:00 +/-0800
+date: 2021-09-11 12:30:00 +/-0800
 categories: [ROMs]
 tags: [HyconOS, RMX2001]
 ---
@@ -10,15 +10,30 @@ tags: [HyconOS, RMX2001]
 **Hycon OS** is AOSP Based ROM with many pixel features & Customizations. We always try to improve it's stability and performance for better & smooth, lagfree experience.
 
 ### Changelog
-==== 21st August, 2021 ====
 
-* Merged August ASB (android-11.0.0_r40) .
-* Improved status bar padding
-* Added Realme Dirac support .
-* Enhanced Stability and overall performance of device.
-* Misc Improvements
-* Shipped with N.E.O.L.I.T-V2 kernel.
-* Added fps: indicator in FPS overaly.
+<details>
+<summary>11th September, 2021</summary>
+<p><ul>
+<li>Compiled with clang 13.</li>
+<li>Latest September Patch Merged android-11.0.0_r43</li>
+<li>Fixed Safety Net Issues and by defalut it will pass </li>
+<li>Some other improvements and bug fixes.</li>
+<li>Misc Improvements</li>
+</ul></p>
+</details>
+
+<details>
+<summary>21st August, 2021</summary>
+<p><ul>
+<li>Merged August ASB (android-11.0.0_r40) .
+<li>Improved status bar padding</li>
+<li>Added Realme Dirac support .</li>
+<li>Enhanced Stability and overall performance of device.</li>
+<li>Misc Improvements</li>
+<li>Shipped with N.E.O.L.I.T-V2 kernel.</li>
+<li>Added fps: indicator in FPS overaly.</li>
+</ul></p>
+</details>
 
 <details>
 <summary>11th July, 2021</summary>
