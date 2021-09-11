@@ -63,7 +63,6 @@ tags: [HyconOS, RMX2001]
 </details>
 
 ### Working features:
-<details>
 * VoLTE, Wifi calling
 * Fingerprint sensor
 * WiFi
@@ -83,7 +82,7 @@ tags: [HyconOS, RMX2001]
 * Safetynet without magisk
 * DT2W
 * EngineerMode
-</details>
+
 
 ### Known issues
 * Night light flickers
