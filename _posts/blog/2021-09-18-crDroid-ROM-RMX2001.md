@@ -110,9 +110,8 @@ tags: [crDroid, RMX2001]
 **Screenshots** - [ClickHere](https://t.me/TheCloverly_Projects/144)
 
 ### Downloads
-**Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-VANILLA-11.0-20210808-RMX2001-v7.9.zip/download)
+**Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210918-RMX2001-v7.10.zip/download)
 
-**GApps** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210808-RMX2001-v7.9.zip/download)
 
 ### Join my telegram channel to get latest updates
 * [Click here](https://t.me/TheCloverly_Releases)
