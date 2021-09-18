@@ -1,6 +1,6 @@
 ---
-title: "crDroid v7.9 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
-date: 2021-08-08 12:30:00 +/-0800
+title: "crDroid v7.10 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+date: 2021-09-18 12:30:00 +/-0800
 categories: [ROMs]
 tags: [crDroid, RMX2001]
 
@@ -11,6 +11,17 @@ tags: [crDroid, RMX2001]
 **crDroid** is designed to improve the performance, reliability and customizability of stock Android.crDroid uses LineageOS as base. We try to keep in sync with LineageOS source while also adding lots of customizations for you to choose from.As crDroid is based on LineageOS, which is also based on stock Android, we can say crDroid is going to keep updates flowing as long as LineageOS and Google do.
 
 ### Changelog
+
+<details>
+<summary>18th September, 2021</summary>
+<p><ul>
+<li> Compiled with clang 13.</li>
+<li> Latest September Patch Merged android-11.0.0_r43</li>
+<li> Fixed Safety Net Issues and by defalut it will pass</li>
+<li> Some other improvements and bug fixes.</li>
+<li> crDroidAndroid source upstream.</li>
+</ul></p>
+</details>
 
 <details>
 <summary>11th September, 2021</summary>
