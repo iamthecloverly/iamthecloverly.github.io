@@ -112,6 +112,8 @@ tags: [crDroid, RMX2001]
 ### Downloads
 **Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210918-RMX2001-v7.10.zip/download)
 
+**Mirror** - [Releases](https://github.com/iamthecloverly/releases/releases/download/0.04/crDroidAndroid-11.0-20210918-RMX2001-v7.10.zip)
+
 
 ### Join my telegram channel to get latest updates
 * [Click here](https://t.me/TheCloverly_Releases)
