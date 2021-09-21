@@ -17,7 +17,7 @@ tags: [crDroid, RMX2001]
 <p><ul>
 <li> Compiled with clang 13.</li>
 <li> Latest September Patch Merged android-11.0.0_r43</li>
-<li> Fixed Safety Net Issues and by defalut it will pass</li>
+<li> Fixed Safety Net Issues and by default it will pass</li>
 <li> Some other improvements and bug fixes.</li>
 <li> crDroidAndroid source upstream.</li>
 </ul></p>
