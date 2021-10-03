@@ -67,6 +67,10 @@ init_files() {
     sed -i.$TEMP_SUFFIX "$((_lineno + 1))s/- .*/- ${_default_branch}/" "$_workflow"
     rm -f "$_workflow.$TEMP_SUFFIX"
 
+    ## Cleanup image settings in site config
+    sed -i.$TEMP_SUFFIX "s/^img_cdn:.*/img_cdn:/;s/^avatar:.*/avatar:/" _config.yml
+    rm -f _config.yml.$TEMP_SUFFIX
+
   fi
 
   # trace the gem lockfile on user-end
