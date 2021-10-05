@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
 ![](https://github.com/iamthecloverly/iamthecloverly/blob/master/icons/header_.png)
 
 I am SriBalaji, known as TheCloverly around the internet, currently pursuing my degree in B.Tech Information Techonology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
