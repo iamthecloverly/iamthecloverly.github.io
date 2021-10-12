@@ -13,6 +13,16 @@ tags: [crDroid, RMX2001]
 ### Changelog
 
 <details>
+<summary>12th October, 2021 </summary>
+<p><ul>
+<li> October ASB (android-11.0.0_r46) </li>
+<li> Strip off some debug packages</li>
+<li> Some other improvements and bug fixes.</li>
+<li> crDroidAndroid source upstream.</li>
+</ul></p>
+</details>
+
+<details>
 <summary>18th September, 2021</summary>
 <p><ul>
 <li> Compiled with clang 13.</li>
@@ -110,9 +120,7 @@ tags: [crDroid, RMX2001]
 **Screenshots** - [ClickHere](https://t.me/TheCloverly_Projects/144)
 
 ### Downloads
-**Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210918-RMX2001-v7.10.zip/download)
-
-**Mirror** - [Releases](https://github.com/iamthecloverly/releases/releases/download/0.04/crDroidAndroid-11.0-20210918-RMX2001-v7.10.zip)
+**Vanilla** - [Download](https://crdroid.net/RMX2001#crDroid-v7)
 
 
 ### Join my telegram channel to get latest updates
