@@ -15,13 +15,29 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 
 ### Changelog
 
-----09th September, 2021----
-- Shipped with N.E.O.L.I.T-V3 kernel.
-- Compiled with clang 13.
-- Latest September Patch Merged android-11.0.0_r43
-- Fixed Safety Net Issues and by defalut it will pass 
-- Some other improvements and bug fixes.
-- PixelPlusUI source upstream.
+<details>
+<summary>14th October, 2021</summary>
+<p><ul>
+	<li>  Shipped with latest N.E.O.L.I.T kernel.</li>
+	<li>  Compiled with clang 13.</li>
+	<li>  Latest October ASB (android-11.0.0_r46)</li>
+	<li>  Fixed Safety Net Issues and by defalut it will pass</li>
+	<li>  Some other improvements and bug fixes.</li>
+	<li>  PixelPlusUI source upstream.</li>
+</ul></p>
+</details>
+
+<details>
+<summary>09th September, 2021</summary>
+<p><ul>
+<li> Shipped with N.E.O.L.I.T-V3 kernel.</li>
+<li> Compiled with clang 13.</li>
+<li> Latest September Patch Merged android-11.0.0_r43</li>
+<li> Fixed Safety Net Issues and by defalut it will pass </li>
+<li> Some other improvements and bug fixes.</li>
+<li> PixelPlusUI source upstream.</li>
+</ul></p>
+</details>
 
 <details>
 <summary>15th August, 2021</summary>
@@ -68,7 +84,7 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 </ul></p>
 </details>
 
-### Screenshots: [ClickHere](https://t.me/TheCloverly_Projects/251)
+### Screenshots: [ClickHere](https://t.me/TheCloverly_Projects/333)
 
 ### Working features
 * VoLTE, Wifi calling
@@ -94,17 +110,17 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 ### Known issues
 * Night light flickers
 
-### Device info
+## Device info
 * **Kernel** - 4.14.x
 * **Chipset** - Mediatek MT6785 Helio G90T
 
 ### Downloads
 **GApps Variant** - [Download](https://www.pling.com/p/1527593/#files-panel)
 
-### Join my telegram channel to get latest updates
+### Join my telegram channel to get latest updates.
 * [Click here](https://t.me/TheCloverly_Releases)
 
-### Support group
+## Support group
 * [Join NoW](https://t.me/SriBalajiHub)
 
 ### How to Flash ?
