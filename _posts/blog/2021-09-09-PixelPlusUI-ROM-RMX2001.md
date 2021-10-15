@@ -6,8 +6,13 @@ categories: [ROMs]
 pin : true
 tags: [PixelPlusUI, PPUI, RMX2001]
 
+image:
+  src: /assets/img/headers/PPUI_3.10.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: PixelPlusUI
 ---
-![PixelPlusUI](/assets/img/headers/PPUI_3.10.jpg)
+
 
 **PixelPlusUI** YET ANOTHER PIXEL ROM!
 Android is one of the most featuristic OS. We all know that it is Google that provides the Android Platform and its maintenance. Based on which OEMs build their own custom Firmware/Skin/ROM such as Xiaomi's MIUI, Samsung's OneUI, OnePlus' OxygenOS, etc. Due to the fact that Android is an open-source platform, developers can build their own ROM/Firmware/Skin and that is what we commonly refer to as Custom ROM. Unlike OEMs, Custom ROM developers provide frequent updates, a bloatware-free, and ad-free experience with great flexibility when it comes to the usability of the OS.
@@ -83,7 +88,15 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 </ul></p>
 </details>
 
-### Screenshots: [ClickHere](https://t.me/TheCloverly_Projects/345)
+### Screenshots: 
+
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-07.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-29.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-32.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-34.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-36.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-38.jpg)
+![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-40.jpg)
 
 ### Working features
 * VoLTE, Wifi calling
@@ -109,20 +122,20 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 ### Known issues
 * Night light flickers
 
-## Device info
-* **Kernel** - 4.14.x
-* **Chipset** - Mediatek MT6785 Helio G90T
-
-### Downloads
+## Downloads
 **GApps Variant** - [Download](https://www.pling.com/p/1527593/#files-panel)
 
-### Join my telegram channel to get latest updates.
+## Join my telegram channel to get latest updates.
 * [Click here](https://t.me/TheCloverly_Releases)
 
 ## Support group
 * [Join NoW](https://t.me/SriBalajiHub)
 
-### How to Flash ?
+# Device info
+* **Kernel** - 4.14.x
+* **Chipset** - Mediatek MT6785 Helio G90T
+
+## How to Flash ?
 **Instructions**
 
 1) Boot into custom recovery 
