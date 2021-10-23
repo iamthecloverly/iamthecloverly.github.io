@@ -1,3 +1,9 @@
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
+
 ## Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![](https://github.com/iamthecloverly/iamthecloverly/blob/master/icons/header_.png)
