@@ -13,6 +13,17 @@ tags: [crDroid, RMX2001]
 ### Changelog
 
 <details>
+<summary>29th October, 2021 </summary>
+<p><ul>
+<li> Translation updates (crDroid side) </li>
+<li> Added Sound Search QS Tile (crDroid side)</li>
+<li> Updated prebuilt gapps (crDroid side)</li>
+<li> Other changes</li>
+<li> Some other improvements and bug fixes.</li>
+</ul></p>
+</details>
+
+<details>
 <summary>12th October, 2021 </summary>
 <p><ul>
 <li> October ASB (android-11.0.0_r46) </li>
