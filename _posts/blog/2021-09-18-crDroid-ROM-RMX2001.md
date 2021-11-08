@@ -12,6 +12,12 @@ tags: [crDroid, RMX2001]
 
 ### Changelog
 
+==== 08th Novomber, 2021 ====
+
+* Android November 2021 Security update
+* Misc fixes and updates
+* Source built kernel
+
 <details>
 <summary>29th October, 2021 </summary>
 <p><ul>
