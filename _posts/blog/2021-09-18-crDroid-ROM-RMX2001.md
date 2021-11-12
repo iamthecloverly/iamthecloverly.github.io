@@ -1,5 +1,5 @@
 ---
-title: "crDroid v7.11 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+title: "crDroid v7.12 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
 date: 2021-10-29 12:30:00 +/-0800
 categories: [ROMs]
 tags: [crDroid, RMX2001]
