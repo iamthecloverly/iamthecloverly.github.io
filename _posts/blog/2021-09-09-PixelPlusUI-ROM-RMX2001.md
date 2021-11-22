@@ -89,14 +89,14 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 </details>
 
 ### Screenshots: 
-
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-07.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-29.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-32.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-34.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-36.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-38.jpg)
-![PPUI](/assets/img/screenshots/ppui/photo_2021-10-15_18-46-40.jpg)
+<p float="left"> 
+	<img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-07.jpg" width=200 height=100 /> 
+    <img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-29.jpg" width=200 height=100 />
+	<img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-32.jpg" width=200 height=100 /></p>
+<p float="left"> 
+	<img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-34.jpg" width=200 height=100 />
+    <img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-36.jpg" width=200 height=100 /> 
+	<img src="/assets/img/screenshots/ppui/photo_2021-10-15_18-46-38.jpg" width=200 height=100 /></p>
 
 ### Working features
 * VoLTE, Wifi calling
