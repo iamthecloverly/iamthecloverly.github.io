@@ -367,31 +367,11 @@ img[data-src] {
     margin-bottom: 1rem;
   }
 
-  em { // MarkDown italic
-    padding-right: 0.2rem;
+  a:hover {
+    code {
+      @extend %link-hover;
+    }
   }
-
-  a {
-    &.img-link {
-      @extend %no-cursor;
-    }
-
-    &.popup { // created by `_includes/img-extra.html`
-      cursor: zoom-in;
-
-      > img[data-src]:not(.normal):not(.left):not(.right) {
-        @include align-center;
-      }
-    }
-
-    &:hover {
-      code {
-        @extend %link-hover;
-      }
-    }
-
-  } // a
-
 }
 
 .pageviews .fa-spinner {
@@ -412,6 +392,10 @@ img[data-src] {
     &:hover {
       @extend %link-hover;
     }
+  }
+
+  em {
+    @extend %normal-font-style;
   }
 }
 
@@ -532,10 +516,6 @@ img[data-src] {
 }
 
 /* --- Effects classes --- */
-
-.semi-bold {
-  font-weight: 600 !important;
-}
 
 .loaded {
   display: block !important;
