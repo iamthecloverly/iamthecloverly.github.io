@@ -383,8 +383,6 @@ img[data-src] {
   word-spacing: 1px;
 
   a {
-    @extend %link-underline;
-
     &:not(:last-child) {
       margin-right: 2px;
     }

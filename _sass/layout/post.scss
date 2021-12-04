@@ -22,13 +22,21 @@
   padding-right: $pr;
 }
 
+%text-color {
+  color: var(--text-color);
+}
+
 h1 + .post-meta {
   span + span::before {
     @include dot;
   }
 
   em {
-    color: var(--text-color);
+    @extend %text-color;
+
+    a {
+      @extend %text-color;
+    }
   }
 }
 
@@ -46,6 +54,10 @@ img.preview-img {
   margin-top: 6rem;
   border-bottom: 1px double var(--main-border-color);
   font-size: 0.85rem;
+
+  .post-meta a {
+    @extend %link-underline;
+  }
 }
 
 .post-tags {
@@ -180,7 +192,7 @@ nav[data-toggle=toc] {
     transition: all 0.3s ease-in-out;
 
     h3 {
-      color: var(--text-color);
+      @extend %text-color;
     }
 
     &:hover {
