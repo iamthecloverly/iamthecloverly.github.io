@@ -1060,7 +1060,7 @@ $sidebar-display: "sidebar-display";
     }
   }
 
-  .row.alone {
+  div.row:first-of-type:last-of-type { // alone
     margin-bottom: 4rem;
   }
 }
