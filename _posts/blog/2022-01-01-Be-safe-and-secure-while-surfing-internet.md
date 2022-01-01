@@ -7,6 +7,7 @@ pin : true
 
 image:
   src: /assets/img/headers/Internet-Safety.jpg
+  width: 1000   # in pixels
   height: 400   # in pixels
   alt: Internet-Safety
 ---
