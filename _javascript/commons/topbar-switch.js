@@ -3,6 +3,13 @@
  */
 
 $(function() {
+<<<<<<< HEAD
+=======
+  const $topbarWrapper = $("#topbar-wrapper");
+  const $topbarTitle = $("#topbar-title");
+  const $panel = $("#panel-wrapper");
+  const $searchInput = $("#search-input");
+>>>>>>> 837d0778 (Avoid preview-image delaying the switching of the top bar title (mobile views))
 
   const topbarWrapper = $("#topbar-wrapper");
   const toc = $("#toc-wrapper");
@@ -54,7 +61,11 @@ $(function() {
   }
 
   $(window).scroll(function(event) {
+<<<<<<< HEAD
     if ($("#topbar-title").is(":hidden")) { /* Not in small screens */
+=======
+    if ($topbarTitle.is(":hidden")) {
+>>>>>>> 837d0778 (Avoid preview-image delaying the switching of the top bar title (mobile views))
       didScroll = true;
     }
   });
