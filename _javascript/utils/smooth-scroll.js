@@ -9,13 +9,19 @@
 
 $(function() {
   const $topbarTitle = $("#topbar-title");
+<<<<<<< HEAD
   const topbarHeight = $("#topbar-wrapper").outerHeight();
   const SCROLL_MARK = "scroll-focus";
+=======
+  const REM = 16; // in pixels
+  const ATTR_SCROLL_FOCUS = "scroll-focus";
+>>>>>>> 2cef6313 (Hide topbar when mobile orientation in landscape mode (resolve #459))
 
   $("a[href*='#']")
     .not("[href='#']")
     .not("[href='#0']")
     .click(function(event) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 
       if (this.pathname.replace(/^\//, "") === location.pathname.replace(/^\//, "")) {
@@ -34,6 +40,10 @@ $(function() {
 =======
 
       if (this.pathname.replace(/^\//, "") !== location.pathname.replace(/^\//, "")) {
+=======
+      if (this.pathname.replace(/^\//, "") !==
+            location.pathname.replace(/^\//, "")) {
+>>>>>>> 2cef6313 (Hide topbar when mobile orientation in landscape mode (resolve #459))
         return;
       }
 
@@ -48,6 +58,7 @@ $(function() {
       let selector = hash.includes(":") ? hash.replace(/\:/g, "\\:") : hash;
       let $target = $(selector);
 
+<<<<<<< HEAD
 <<<<<<< HEAD
             let curOffset = isAnchor? $(this).offset().top : $(window).scrollTop();
             let destOffset = $target.offset().top;
@@ -92,6 +103,10 @@ $(function() {
       let parent = $(this).parent().prop("tagName");
       let isAnchor = RegExp(/^H\d/).test(parent);
       let isMobileViews = !$topbarTitle.is(":hidden");
+=======
+      let isMobileViews = $topbarTitle.is(":visible");
+      let isPortrait = $(window).width() < $(window).height();
+>>>>>>> 2cef6313 (Hide topbar when mobile orientation in landscape mode (resolve #459))
 
       if (typeof $target === "undefined") {
         return;
@@ -103,10 +118,11 @@ $(function() {
         history.pushState(null, null, hash);
       }
 
-      let curOffset = isAnchor ? $(this).offset().top : $(window).scrollTop();
+      let curOffset = $(window).scrollTop();
       let destOffset = $target.offset().top -= REM / 2;
 
       if (destOffset < curOffset) { // scroll up
+<<<<<<< HEAD
         if (!isAnchor && !toFootnote) { // trigger by ToC item
           if (!isMobileViews) { // on desktop/tablet screens
             $topbarWrapper.removeClass("topbar-down").addClass("topbar-up");
@@ -115,15 +131,18 @@ $(function() {
             tocScrollUpCount += 1;
 >>>>>>> e7b377cf (Prevent the top bar from covering the heading when scrolling down (in mobile views))
           }
+=======
+        ScrollHelper.hideTopbar();
+        ScrollHelper.addScrollUpTask();
+
+        if (isMobileViews && isPortrait) {
+          destOffset -= ScrollHelper.getTopbarHeight();
+>>>>>>> 2cef6313 (Hide topbar when mobile orientation in landscape mode (resolve #459))
         }
 
-        if ((isAnchor || toFootnoteRef) && isMobileViews) {
-          destOffset -= topbarHeight;
-        }
-
-      } else {
-        if (isMobileViews) {
-          destOffset -= topbarHeight;
+      } else { // scroll down
+        if (isMobileViews && isPortrait) {
+          destOffset -= ScrollHelper.getTopbarHeight();
         }
       }
 
@@ -133,18 +152,18 @@ $(function() {
         $target.focus();
 
         /* clean up old scroll mark */
-        if ($(`[${SCROLL_MARK}=true]`).length) {
-          $(`[${SCROLL_MARK}=true]`).attr(SCROLL_MARK, false);
+        if ($(`[${ATTR_SCROLL_FOCUS}=true]`).length) {
+          $(`[${ATTR_SCROLL_FOCUS}=true]`).attr(ATTR_SCROLL_FOCUS, false);
         }
 
         /* Clean :target links */
         if ($(":target").length) { /* element that visited by the URL with hash */
-          $(":target").attr(SCROLL_MARK, false);
+          $(":target").attr(ATTR_SCROLL_FOCUS, false);
         }
 
         /* set scroll mark to footnotes */
         if (toFootnote || toFootnoteRef) {
-          $target.attr(SCROLL_MARK, true);
+          $target.attr(ATTR_SCROLL_FOCUS, true);
         }
 
         if ($target.is(":focus")) { /* Checking if the target was focused */
@@ -154,12 +173,8 @@ $(function() {
           $target.focus(); /* Set focus again */
         }
 
-        if (typeof $topbarWrapper.attr(ATTR_TOC_SCROLLING) !== "undefined") {
-          tocScrollUpCount -= 1;
-
-          if (tocScrollUpCount <= 0) {
-            $topbarWrapper.attr(ATTR_TOC_SCROLLING, "false");
-          }
+        if (ScrollHelper.hasScrollUpTask()) {
+          ScrollHelper.popScrollUpTask();
         }
       });
     }); /* click() */
