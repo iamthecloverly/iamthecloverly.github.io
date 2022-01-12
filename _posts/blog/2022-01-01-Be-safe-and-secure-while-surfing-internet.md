@@ -28,7 +28,7 @@ VPN means virtual private network, using these third party softwares on your com
 Now, this would be the most sensitive and important part of this article. did you ever get an email saying ' hey, update your payment info. right now to avail 100 bucks' if YES do not open it because I'm pretty sure no one just gives you 100$ for no reason, most of the times these emails are sent by scammers to get your credit card, paypal and other information " HOW TO KNOW IF ITS A SCAMMER OR REALLY SOME LEGIT COMPANY" 
 OK! So now, lets just say hypothetical you get an email from Paypal saying update your credit card or your account will be deactivated, first of all check the link they gave you to update your information if it's real it'll be like paypal.com if you see any typo or something weird in the domain never open it.   
 
-***these 3 steps would be kinda enough to be safe from creeps and scammers, article about social media account awareness will be published soon on our website. so stay tuned xD!***    
+***these 3 steps would be kinda enough to be safe from creeps and scammers, article about social media account awareness will be published soon on our website. so stay tuned xD!**
 
 
 ## Note: any website,application recommended in this article is personally suggested, and this post is made for educational and awareness purpose only.
