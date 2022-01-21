@@ -1,8 +1,8 @@
 ---
-title: "ProjectElixir ROM [Android 12] For Realme 6/6i/6s (G90T Series) [UNOFFICIAL]"
-date: 2021-11-21 12:30:00 +/-0800
+title: "ProjectElixir ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) [OFFICIAL]"
+date: 2022-01-21 12:30:00 +/-0800
 categories: [ROMs]
-tags: [CipherOS, RMX2001]
+tags: [ProjectElixir, RMX2001]
 
 image:
   src: /assets/img/headers/ProjectElixer.jpg
@@ -14,10 +14,17 @@ image:
 
 ### Changelog
 
-- Initial build based on Android 12.
-- November ASB (android-12.0.0_r12)
-- Required Realme UI 1.0 Frimware.
-- Fixed VoLTE
+- January ASB (android-12.0.0_r26)
+- Switched to RUI2 firmware
+- Passes SafetyNet out-of-the-box
+- Improved Gaming performance
+- Unlimited Google Photos storage
+- NFC works now
+- Added LiveDisplay (Display settings)
+- Fixed VOOC charging delay
+- Fixed minimum brightness
+- Upstreamed kernel to 4.14.261
+- Added F2FS support
 
 ### Whats working
 * VoLTE, Wifi calling
@@ -44,11 +51,10 @@ image:
 * Night light flickers
 
 ### Screenshots
-<p float="normal"> 
+<p> 
     <img src="/assets/img/screenshots/projectelixer/01.jpg" width=200 height=100>
     <img src="/assets/img/screenshots/projectelixer/02.jpg" width=200 height=100>
     <img src="/assets/img/screenshots/projectelixer/03.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/04.jpg" width=200 height=100>
     <img src="/assets/img/screenshots/projectelixer/05.jpg" width=200 height=100>
     <img src="/assets/img/screenshots/projectelixer/06.jpg" width=200 height=100>
     <img src="/assets/img/screenshots/projectelixer/07.jpg" width=200 height=100>
@@ -64,7 +70,7 @@ image:
 - Chipset - Mediatek MT6785 Helio G90T
 
 ## Downloads
-**GApps Variant** - [Download](https://github.com/iamthecloverly/releases/releases/download/0.09/ProjectElixir_1.1_RMX2001-12.0-20211122-1029-UNOFFICIAL.zip)
+**GApps Variant** - [Download](https://www.pling.com/p/1687585/)
 
 ## Join my telegram channel to get latest updates.
 * [Click here](https://t.me/TheCloverly_Releases)
