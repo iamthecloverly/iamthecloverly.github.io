@@ -34,6 +34,7 @@ The following table will help you understand the changes to the favicon files:
 | `browserconfig.xml` | ✗                                 | ✓           |
 | `site.webmanifest`  | ✗                                 | ✓           |
 
-> Note: ✓ means keep, ✗ means delete.
+>  ✓ means keep, ✗ means delete.
+{: .prompt-note }
 
 The next time you build the site, the favicon will be replaced with a customized edition.
