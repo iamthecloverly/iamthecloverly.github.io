@@ -32,7 +32,6 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
   <li>Fixed brightness slider curve</li>
   <li>Fixed minimum brightness</li>
   <li>Upstreamed kernel to 4.14.261</li>
-  <li>Unlimited Google Photos storage</li>
   <li>Added F2FS support</li>
 </ul></p>
 </details>
