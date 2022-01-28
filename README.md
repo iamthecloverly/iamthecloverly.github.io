@@ -10,9 +10,7 @@
 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
-  [**Live Demo →**](https://chirpy.cotes.info)
-
-  [![Devices Mockup](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png)](https://chirpy.cotes.info)
+  [![Devices Mockup](https://raw.githubusercontent.com/cotes2020/chirpy-images/main/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
 
 </div>
 
