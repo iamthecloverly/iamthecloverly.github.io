@@ -56,7 +56,7 @@ social:
 google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
-
+# The end of `jekyll-seo-tag` settings
 
 google_analytics:
   id:                 # fill in your Google Analytics ID
@@ -100,6 +100,14 @@ comments:
   utterances:
     repo: iamthecloverly/iamthecloverly.github.io    # <gh-username>/<repo>
     issue_term: https://github.com/iamthecloverly/iamthecloverly.github.io/issues  # < url | pathname | title | ...>
+
+# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+assets:
+  self_host:
+    enabled:      # boolean, keep empty means false
+    # specify the Jekyll environment, empty means both
+    # only works if `assets.self_host.enabled` is 'true'
+    env:          # [development|production]
 
 paginate: 10
 
