@@ -72,3 +72,5 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
