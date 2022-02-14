@@ -95,7 +95,7 @@ $code-radius: 6px;
     user-select: none;
   }
 
-} //.highlight
+} /* .highlight */
 
 code {
   -webkit-hyphens: none;
@@ -123,7 +123,7 @@ code {
   }
 
   a > &.highlighter-rouge {
-    padding-bottom: 0; // show link's underlinke
+    padding-bottom: 0; /* show link's underlinke */
     color: inherit;
   }
 
@@ -143,8 +143,10 @@ code {
 td.rouge-code {
   @extend %code-snippet-padding;
 
-  // Prevent some browser extends from
-  // changing the URL string of code block.
+  /*
+    Prevent some browser extends from
+    changing the URL string of code block.
+  */
   a {
     color: inherit !important;
     border-bottom: none !important;
@@ -198,9 +200,9 @@ div {
       ($dot-size + $dot-margin) * 2 0 0 var(--code-header-muted-color);
   }
 
-  // the label block
+  /* the label block */
   span {
-    // label icon
+    /* label icon */
     i {
       font-size: 1rem;
       margin-right: 0.4rem;
@@ -213,10 +215,10 @@ div {
 
     @at-root [file] #{&} > i {
       position: relative;
-      top: 1px; // center the file icon
+      top: 1px; /* center the file icon */
     }
 
-    // label text
+    /* label text */
     &::after {
       content: attr(data-label-text);
       font-size: 0.85rem;
@@ -225,7 +227,7 @@ div {
     }
   }
 
-  // clipboard
+  /* clipboard */
   button {
     @extend %cursor-pointer;
 
