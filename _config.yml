@@ -100,8 +100,6 @@ comments:
   utterances:
     repo: iamthecloverly/iamthecloverly.github.io    # <gh-username>/<repo>
     issue_term: https://github.com/iamthecloverly/iamthecloverly.github.io/issues  # < url | pathname | title | ...>
-    repo:         # <gh-username>/<repo>
-    issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo:             # <gh-username>/<repo>
