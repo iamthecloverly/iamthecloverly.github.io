@@ -1,6 +1,6 @@
 ---
 title: "ProjectElixir ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) [OFFICIAL]"
-date: 2022-01-21 12:30:00 +/-0800
+date: 2022-03-16 12:30:00 +/-0800
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
 
@@ -13,6 +13,19 @@ image:
 *Project Elixir* is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Build and enjoy Project Elixir on your respective devices!
 
 ### Changelog
+
+*16-03-2022*
+- February Security Patch
+- Passes SafetyNet out-of-the-box
+- Use GcamGo as default
+- Fixed screen flicker
+- Fixed charging info on lockscreen
+- Fixed native screen recorder
+- Fixed offline charging
+- Miscellaneous changes
+- Fixed DRM Widevine L1
+
+*12-01-2022*
 
 - January ASB (android-12.0.0_r26)
 - Switched to RUI2 firmware
