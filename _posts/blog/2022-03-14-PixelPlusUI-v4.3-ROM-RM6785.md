@@ -1,14 +1,13 @@
 ---
 title: "PixelPlusUI v4.3 ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) [OFFICIAL]"
 date: 2022-03-14 11:33:00 +0800
-description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
 pin : true
 tags: [PixelPlusUI, PPUI, RM6785]
 img_path: /assets/img/screenshots/ppui4/
 
 image:
-  src: /assets/img/headers/PPUI_4.3.jpg
+  src: PPUI_4.3.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI
