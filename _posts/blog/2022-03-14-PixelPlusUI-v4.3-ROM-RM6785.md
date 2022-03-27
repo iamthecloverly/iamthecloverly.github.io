@@ -5,6 +5,7 @@ description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
 pin : true
 tags: [PixelPlusUI, PPUI, RM6785]
+img_path: /assets/img/screenshots/ppui4/
 
 image:
   src: /assets/img/headers/PPUI_4.3.jpg
@@ -46,24 +47,17 @@ image:
 </details>
 
 ### Screenshots: 
-<p> 
-	<img src="/assets/img/screenshots/ppui4/01.jpg" width=200 height=100 /> 
-    <img src="/assets/img/screenshots/ppui4/02.jpg" width=200 height=100 />
-	<img src="/assets/img/screenshots/ppui4/03.jpg" width=200 height=100 /></p>
-<p> 
-	<img src="/assets/img/screenshots/ppui4/04.jpg" width=200 height=100 />
-    <img src="/assets/img/screenshots/ppui4/05.jpg" width=200 height=100 /> 
-	<img src="/assets/img/screenshots/ppui4/06.jpg" width=200 height=100 /></p>
-<p> 
-	<img src="/assets/img/screenshots/ppui4/07.jpg" width=200 height=100 />
-    <img src="/assets/img/screenshots/ppui4/08.jpg" width=200 height=100 /> 
-    <img src="/assets/img/screenshots/ppui4/09.jpg" width=200 height=100 /> </p>  
-<p>
-    <img src="/assets/img/screenshots/ppui4/10.jpg" width=200 height=100 /> 
-    <img src="/assets/img/screenshots/ppui4/11.jpg" width=200 height=100 /> 
-    <img src="/assets/img/screenshots/ppui4/12.jpg" width=200 height=100 /> </p>
+  ![Desktop View](01.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](02.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](03.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](05.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](06.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](07.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](09.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](10.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](12.jpg){: w="200" h="400" }{: .normal } 
   
-
 ## Working features
 * VoLTE, Wifi calling
 * Fingerprint sensor

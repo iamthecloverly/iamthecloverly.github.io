@@ -3,6 +3,7 @@ title: "ProjectElixir ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 2
 date: 2022-03-16 12:30:00 +/-0800
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
+img_path: /assets/img/screenshots/projectelixer/
 
 image:
   src: /assets/img/headers/ProjectElixer.jpg
@@ -63,20 +64,18 @@ image:
 ### Known issues
 * Night light flickers
 
-### Screenshots
-<p> 
-    <img src="/assets/img/screenshots/projectelixer/01.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/02.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/03.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/05.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/06.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/07.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/08.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/09.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/10.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/11.jpg" width=200 height=100>
-    <img src="/assets/img/screenshots/projectelixer/12.jpg" width=200 height=100>
-</p>
+### Screenshots 
+  ![Desktop View](01.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](02.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](03.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](05.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](06.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](07.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](08.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](09.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](10.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](12.jpg){: w="200" h="400" }{: .normal } 
 
 ### Device info
 - Kernel - 4.14.x
