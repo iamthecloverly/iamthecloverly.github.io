@@ -3,14 +3,17 @@ title: "ProjectElixir ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 2
 date: 2022-03-16 12:30:00 +/-0800
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
-img_path: /assets/img/screenshots/projectelixer/
+img_path: /assets/img/screenshots/projectelixir/
 
 image:
-  src: /assets/img/headers/ProjectElixer.jpg
+  path: ProjectElixir.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: ProjectElixer
+  alt: Project Elixir
 ---
+
+
+
 *Project Elixir* is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Build and enjoy Project Elixir on your respective devices!
 
 ### Changelog
@@ -90,13 +93,54 @@ image:
 ## Support group
 * [Join NoW](https://t.me/SriBalajiHub)
 
-## How to Flash ?
-**Instructions**
+# Instructions
 
-1) Boot into custom recovery 
+**If you are coming from RealmeUI-1.0 or RealmeUI-2.0 or any custom ROM**
 
-2) Format data
+  - Boot into custom recovery
+  - Format data
+  - Flash latest LineageOS-19.0 build
+  - Flash Lineage Recovery
+  - Reboot your device once the installation is done
 
-3) Flash latest build
+**If you are already on LineageOS-19**
 
-4) Reboot your device 
+  - Boot into custom recovery
+  - Flash latest build
+  - Reboot your device once the installation is done
+
+# FAQs
+
+**Can I flash this rom from RealmeUI-1.0 or custom ROM based on it?**
+
+    Yes! this build contains RealmeUI-2.0 firmware so doesn’t matter what ROM you are on.
+
+**How to root?**
+
+    Download latest Magisk apk and flash it from RECOVERY.
+
+**I can’t boot into RECOVERY mode after flashing this ROM**
+
+    You can, just not with the key combo. Realme have mapped that combo to bootloader instead of recovery unlike in RealmeUI-1.0.
+    Enable Advanced restart from Settings->System->Buttons->Power Menu and use that
+
+**How to flash stuffs in Lineage recovery**
+
+    Use External SDCard or adb sideload
+
+**Can I flash other custom recoveries?**
+
+    Not recommended but Yes, you can. Make sure that recovery is compatible with RealmeUI-2.0, RealmeUI-1.0 based recoveries simply won’t work.
+
+**Safetynet is failing after rooting the device**
+
+    If you are on Magisk 23.0:
+        Enable MagiskHide from Magisk Manager app
+    If you are on Magisk 24.0+ (Zygisk):
+        Enable “Zygisk” option from the Magisk Manager app
+        Reboot your device
+        Enable “Enforce DenyList” option
+        Go in “Configure DenyList”
+        Enable “Show system apps” option then search ‘Google Play Services’ and tap on it (but NOT on the tick box!) to expand activities
+        Enable “com.google.android.gms” and “com.google.android.gms.unstable”
+
