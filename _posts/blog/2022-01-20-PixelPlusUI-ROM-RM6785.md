@@ -7,7 +7,7 @@ pin : false
 tags: [PixelPlusUI, PPUI, RM6785]
 
 image:
-  src: /assets/img/headers/PPUI_4.1.jpg
+  path: /assets/img/headers/PPUI_4.1.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI

@@ -6,7 +6,7 @@ tags: [Internet, Secure]
 pin : false
 
 image:
-  src: /assets/img/headers/Internet-Safety.jpg
+  path: /assets/img/headers/Internet-Safety.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Internet-Safety

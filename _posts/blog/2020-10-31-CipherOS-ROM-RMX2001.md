@@ -5,7 +5,7 @@ categories: [ROMs]
 tags: [CipherOS, RMX2001]
 
 image:
-  src: /assets/img/headers/CipherOS.jpg
+  path: /assets/img/headers/CipherOS.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: CipherOS
