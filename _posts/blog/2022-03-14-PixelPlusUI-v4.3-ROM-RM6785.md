@@ -7,7 +7,7 @@ tags: [PixelPlusUI, PPUI, RM6785]
 img_path: /assets/img/screenshots/ppui4/
 
 image:
-  src: PPUI_4.3.jpg
+  path: PPUI_4.3.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI
