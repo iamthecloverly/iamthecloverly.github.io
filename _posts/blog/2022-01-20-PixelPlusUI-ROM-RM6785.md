@@ -1,5 +1,5 @@
 ---
-title: "PixelPlusUI ROM [Android12] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) [OFFICIAL]"
+title: "PixelPlusUI ROM [Android12] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
 date: 2022-01-20 11:33:00 +0800
 description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
