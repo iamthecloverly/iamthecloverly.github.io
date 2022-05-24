@@ -1,13 +1,13 @@
 ---
-title: "PixelPlusUI v4.3 ROM [Android12] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
-date: 2022-03-14 11:33:00 +0800
+title: "PixelPlusUI v4.5 ROM [Android12] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
+date: 2022-05-24 18:33:00 +0530
 categories: [ROMs]
 pin : false
 tags: [PixelPlusUI, PPUI, RM6785]
-img_path: /assets/img/screenshots/ppui4/
+img_path: /assets/img/screenshots/ppui/
 
 image:
-  path: PPUI_4.3.jpg
+  path: PPUI_4.5.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI
@@ -16,16 +16,32 @@ image:
 **PixelPlusUI**  is an another aftermarket aosp ROM Minimal UI & close to Stock Android ROM. What differentiates us from the rest, you ask? LET'S FIND OUT. Our main aim is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. It brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. Inshort its perfectly balaced between Great Performance, Security, Stability, Minimal UI & Awesome features including pixel goodies. Join us now and start enjoying the beauty of stock Android. Build and enjoy PixelPlusUI on your respective devices!
 
 # Changelog
-**14th March, 2022**
-* February Security Patch
-* Passes SafetyNet out-of-the-box
-* Use GcamGo as default
-* Fixed screen flicker
-* Fixed charging info on lockscreen
-* Fixed native screen recorder
-* Fixed offline charging
-* Miscellaneous changes
-* Fixed DRM Widevine L1
+**24th May, 2022**
+* May ASB (android-12.1.0_r5)
+* SELinux Enforcing
+* PixelplusUI source upstream
+* Fixed Auto brightness QS toggle
+* Unlocked Google app weather widgets
+* Improved haptics
+* Improved UI performance
+* Fixed lag on viewfinder in GCam
+* power: Boost min CPU freq to 1618000,1419000 on interaction
+* Drop redundant secure element service
+
+<details>
+<summary>14th March, 2022</summary>
+<p><ul>
+<li> February Security Patch</li>
+<li> Passes SafetyNet out-of-the-box</li>
+<li> Use GcamGo as default</li>
+<li> Fixed screen flicker</li>
+<li> Fixed charging info on lockscreen</li>
+<li> Fixed native screen recorder</li>
+<li> Fixed offline charging</li>
+<li> Miscellaneous changes</li>
+<li> Fixed DRM Widevine L1</li>
+</ul></p>
+</details>
 
 <details>
 <summary>14th October, 2022</summary>
@@ -55,7 +71,6 @@ image:
   ![Desktop View](09.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](10.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](12.jpg){: w="200" h="400" }{: .normal } 
   
 # Working features
 * VoLTE, Wifi calling
