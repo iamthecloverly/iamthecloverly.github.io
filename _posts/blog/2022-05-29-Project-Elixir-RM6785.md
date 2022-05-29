@@ -1,12 +1,12 @@
 ---
 title: "ProjectElixir ROM [Android12L] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
-date: 2022-03-16 12:30:00 +/-0800
+date: 2022-05-29 21:58:00 +/-0530
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
 img_path: /assets/img/screenshots/Elixir/
 
 image:
-  path: ProjectElixir.jpg
+  path: ProjectElixir_v1.7.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Project Elixir
@@ -35,19 +35,37 @@ image:
 
 # Changelog
 
-**  17-04-2022** 
-- April ASB (android-12.1.0_r4)
-- Elixir source upstream
-- Added support for pickup gestures (Settings->Display->Lockscreen->Ambient Display)
-- Fixed IMS crash while sending SMS over some carriers
-- Based on Android-12L
-- Offline charging support
-- Include face unlock
+**09-05-2022**
+
+- May ASB (android-12.1.0_r5)
 - SELinux Enforcing
-- Added charging ripple animation back
-- Unblocked vibration, alarm icon from collapsed status bar
-- Misc improvement
-- Added RealmeSettings
+- Source upstream
+- Fixed Auto brightness QS toggle
+- Unlocked Google app weather widgets
+- Improved haptics
+- Improved UI performance
+- Fixed lag on viewfinder in GCam
+- power: Boost min CPU freq to 1618000,1419000 on interaction
+- Drop redundant secure element service
+
+
+<details>
+<summary>17-04-2022</summary>
+<p><ul>
+<li> April ASB (android-12.1.0_r4)</li>
+<li> Elixir source upstream</li>
+<li> Added support for pickup gestures (Settings->Display->Lockscreen->Ambient Display)</li>
+<li> Fixed IMS crash while sending SMS over some carriers</li>
+<li> Based on Android-12L</li>
+<li> Offline charging support</li>
+<li> Include face unlock</li>
+<li> SELinux Enforcing</li>
+<li> Added charging ripple animation back</li>
+<li> Unblocked vibration, alarm icon from collapsed status bar</li>
+<li> Misc improvement</li>
+<li> Added RealmeSettings</li>
+</ul></p>
+</details>
 
 
 <details>
@@ -95,6 +113,9 @@ image:
   ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](13.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](14.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](15.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](16.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](17  .jpg){: w="200" h="400" }{: .normal }
 
 # Known issues
 
