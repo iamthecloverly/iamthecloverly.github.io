@@ -2,13 +2,12 @@
   The common styles
 */
 
-@mixin mode-toggle($dark-mode: false) {
-  @if $dark-mode {
-    @include dark-scheme;
-  } @else {
-    @include light-scheme;
-  }
-}
+html {
+  @media (prefers-color-scheme: light) {
+    &:not([data-mode]),
+    &[data-mode=light] {
+      @include light-scheme;
+    }
 
 html:not([data-mode]),
 html[data-mode=light] {
