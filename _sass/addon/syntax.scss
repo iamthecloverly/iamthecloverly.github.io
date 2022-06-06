@@ -5,12 +5,10 @@
 @import "colors/light-syntax";
 @import "colors/dark-syntax";
 
-html {
-  @media (prefers-color-scheme: light) {
-    &:not([data-mode]),
-    &[data-mode=light] {
-      @include light-syntax;
-    }
+html:not([data-mode]),
+html[data-mode=light] {
+  @include light-syntax;
+}
 
 html[data-mode=dark] {
   @include dark-syntax;
