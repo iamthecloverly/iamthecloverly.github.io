@@ -1,12 +1,12 @@
 ---
 title: "ProjectElixir ROM [Android12L] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
-date: 2022-05-29 21:58:00 +/-0530
+date: 2022-06-12 18:53:00 +/-0530
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
-img_path: /assets/img/screenshots/Elixir/
+img_path: /assets/img/screenshots/projectelixir/
 
 image:
-  path: ProjectElixir_v1.7.jpg
+  path: ProjectElixir.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Project Elixir
@@ -35,18 +35,32 @@ image:
 
 # Changelog
 
-**09-05-2022**
+**12-06-2022**
 
-- May ASB (android-12.1.0_r5)
-- SELinux Enforcing
-- Source upstream
-- Fixed Auto brightness QS toggle
-- Unlocked Google app weather widgets
-- Improved haptics
-- Improved UI performance
-- Fixed lag on viewfinder in GCam
-- power: Boost min CPU freq to 1618000,1419000 on interaction
-- Drop redundant secure element service
+- June ASB and feature drop (android-12.1.0_r7).
+- Added Game space In Essence.
+- Essence: Introduce OOS style notification clear all button.
+- Elixir Source upstream.
+- Improved UI performance.
+- Import some WiFi overlays from OplusWifiResource 
+- Show daily data usage in QS footer
+- Much More - Try by yourself
+
+<details>
+<summary>09-05-2022</summary>
+<p><ul>
+	<li> May ASB (android-12.1.0_r5)</li>
+	<li> SELinux Enforcing</li>
+	<li> Source upstream</li>
+	<li> Fixed Auto brightness QS toggle</li>
+	<li> Unlocked Google app weather widgets</li>
+	<li> Improved haptics</li>
+	<li> Improved UI performance</li>
+	<li> Fixed lag on viewfinder in GCam</li>
+	<li> power: Boost min CPU freq to 1618000,1419000 on interaction</li>
+	<li> Drop redundant secure element service</li>
+</ul></p>
+</details>
 
 
 <details>
@@ -103,19 +117,16 @@ image:
 # Screenshots 
   ![Desktop View](1.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](2.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](10.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](13.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](3.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](5.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](6.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](7.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](8.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](9.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](10.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](11.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](13.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](14.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](15.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](16.jpg){: w="200" h="400" }{: .normal }
-  ![Desktop View](17  .jpg){: w="200" h="400" }{: .normal }
+  ![Desktop View](4.jpg){: w="200" h="400" }{: .normal }
 
 # Known issues
 
