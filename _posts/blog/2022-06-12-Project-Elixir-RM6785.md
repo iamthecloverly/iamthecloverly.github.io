@@ -1,6 +1,6 @@
 ---
 title: "ProjectElixir ROM [Android12L] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
-date: 2022-06-12 18:53:00 +/-0530
+date: 2022-08-13 22:43:00 +/-0530
 categories: [ROMs]
 tags: [ProjectElixir, RMX2001]
 img_path: /assets/img/screenshots/projectelixir/
@@ -34,6 +34,19 @@ image:
 - Ringtone, Notification, Alarm, UI sounds from Goolag Pixel
 
 # Changelog
+
+## Project Elixir v2.0 Update (August)
+
+**13-08-2022**
+
+- August ASB (android-12.1.0_r22)
+- Project Elixir source upstream
+- Fixed IPv6 tethering
+- Upstreamed kernel to 4.14.290
+- Updated vendor blobs and firmware images to RMX2002_11.C.19
+- Fixed youtube lag while playing 1080p/2K video's
+- Improved Smoothness
+- Misc improvements
 
 **12-06-2022**
 
@@ -130,8 +143,8 @@ image:
 
 # Known issues
 
-- IPv6 Tethering (workaround: Enable tethering through [this app](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot&hl=en_IN&gl=US) or Change APN protocol to IPv4 🏃‍♂️
 - Native video calling (ViLTE) and Voice over WiFi (VoWiFi)
+- USB Audio
 
 # Reporting Bugs
 
