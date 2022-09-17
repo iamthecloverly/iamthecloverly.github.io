@@ -45,7 +45,7 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 
 # Changelog
 
-## v4.8 Update (19-August-2022)
+v4.8 Update (19-August-2022)
 * August ASB (android-12.1.0_r22)
 * PixelplusUI source upstream
 * Fixed IPv6 tethering
@@ -55,17 +55,21 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 * Improved Smoothness
 * Misc improvements
 
-**24th May, 2022**
-* May ASB (android-12.1.0_r5)
-* SELinux Enforcing
-* PixelplusUI source upstream
-* Fixed Auto brightness QS toggle
-* Unlocked Google app weather widgets
-* Improved haptics
-* Improved UI performance
-* Fixed lag on viewfinder in GCam
-* power: Boost min CPU freq to 1618000,1419000 on interaction
-* Drop redundant secure element service
+<details>
+<summary>24th May, 2022</summary>
+<ul>
+<li> May ASB (android-12.1.0_r5)</li>
+<li> SELinux Enforcing</li>
+<li> PixelplusUI source upstream</li>
+<li> Fixed Auto brightness QS toggle</li>
+<li> Unlocked Google app weather widgets</li>
+<li> Improved haptics</li>
+<li> Improved UI performance</li>
+<li> Fixed lag on viewfinder in GCam</li>
+<li> power: Boost min CPU freq to 1618000,1419000 on interaction</li>
+<li> Drop redundant secure element service</li>
+</ul>
+</details>
 
 <details>
 <summary>14th March, 2022</summary>
@@ -161,4 +165,4 @@ Enable Advanced restart from `Settings->System->Buttons->Power Menu` and use tha
     - Enable `“com.google.android.gms” and “com.google.android.gms.unstable”`
 
 # Downloads
-**GApps Variant** - [Download](https://ppui.site/download) 
+**GApps Variant*<li> - [Download](https://ppui.site/download) 
