@@ -22,11 +22,11 @@
           {% endcapture %}
 
           {% capture _theme %}
-          <a href="https://github.com/iamthecloverly target="_blank" rel="noopener">Vercel</a>
+          <a href="https://github.com/iamthecloverly" target="_blank" rel="noopener">Vercel</a>
           {% endcapture %}
 
           {{ site.data.locales[lang].meta
-            | default: 'Powered by :PLATFORM with :THEME theme.'
+            | default: 'Powered by :PLATFORM and :THEME.'
             | replace: ':PLATFORM', _platform | replace: ':THEME', _theme
           }}
         </p>
