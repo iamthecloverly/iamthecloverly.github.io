@@ -3,7 +3,7 @@ title: "PixelPlusUI ROM [Android12] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro,
 date: 2022-08-19 19:25:00 +/-0530
 description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
-pin : true
+pin : false
 tags: [PixelPlusUI, PPUI, RM6785]
 
 image:
