@@ -15,7 +15,6 @@ image:
 **PixelPlusUI** YET ANOTHER PIXEL ROM!
 Android is one of the most featuristic OS. We all know that it is Google that provides the Android Platform and its maintenance. Based on which OEMs build their own custom Firmware/Skin/ROM such as Xiaomi's MIUI, Samsung's OneUI, OnePlus' OxygenOS, etc. Due to the fact that Android is an open-source platform, developers can build their own ROM/Firmware/Skin and that is what we commonly refer to as Custom ROM. Unlike OEMs, Custom ROM developers provide frequent updates, a bloatware-free, and ad-free experience with great flexibility when it comes to the usability of the OS.
 
-
 # Working features
 * VoLTE, Wifi calling
 * Fingerprint sensor
