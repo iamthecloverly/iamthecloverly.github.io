@@ -1,17 +1,18 @@
 ---
-title: "PixelPlusUI v5.0 ROM [Android13] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
-date: 2022-11-02 22:53:00 +0530
+title: "PixelPlusUI v5.1 ROM [Android13] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
+date: 2022-11-02 23:53:00 +0530
 categories: [ROMs]
 pin : true
 tags: [PixelPlusUI, PPUI, RM6785]
 img_path: /assets/img/screenshots/ppui_5.0
 
 image:
-  path: PPUI_A13.webp
+  path: PPUI_A13_01.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI
 ---
+
 **PixelPlusUI** YET ANOTHER PIXEL ROM!
 Android is one of the most featuristic OS. We all know that it is Google that provides the Android Platform and its maintenance. Based on which OEMs build their own custom Firmware/Skin/ROM such as Xiaomi's MIUI, Samsung's OneUI, OnePlus' OxygenOS, etc. Due to the fact that Android is an open-source platform, developers can build their own ROM/Firmware/Skin and that is what we commonly refer to as Custom ROM. Unlike OEMs, Custom ROM developers provide frequent updates, a bloatware-free, and ad-free experience with great flexibility when it comes to the usability of the OS.
 
@@ -37,13 +38,29 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 * EngineerMode
 
 # Known issues
-
 - Native video calling (ViLTE) and Voice over WiFi (VoWiFi)
-- USB Audio
 
 # Changelog
 
-Initial Android 13 built.
+*26/11/2022*
+- Initial stable release
+- November ASB (android-13.0.0_r14)
+- PixelPlusUI source upstream
+- Fixed video playback crash
+- Disabled boosts on power saving mode
+- Increased Voice Call volume steps to 15
+- Re-adjusted status bar paddings
+- Switched to pixel power-libperfmgr HAL
+- Enabled AUX camera support on aperture camera app
+- Fixed buzzed brightness slider
+- Upstreamed kernel to 4.14.297
+
+<details>
+<summary>2nd Nov, 2022</summary>
+<p><ul>
+<li>Initial Android 13 built.</li>
+</ul></p>
+</details>
 
 # Screenshots: 
   ![Desktop View](01.jpg){: w="200" h="400" }{: .normal }
