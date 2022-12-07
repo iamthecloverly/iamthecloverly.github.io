@@ -123,6 +123,7 @@
         {% assign _left = _left | replace: 'src=', 'class="lazyload" src=' %}
       {% endif %}
 
+      <!-- lazy-load images <https://github.com/ApoorvSaxena/lozad.js#usage> -->
       {% assign _left = _left | replace: 'src=', 'data-src=' %}
 
     {% endif %}
