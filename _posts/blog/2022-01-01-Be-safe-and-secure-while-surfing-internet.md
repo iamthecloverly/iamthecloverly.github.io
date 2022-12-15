@@ -1,9 +1,8 @@
 ---
 title: "Be 100% safe and secure while surfing your favorite websites on the internet"
 date: 2022-01-01 12:30:00 +/-0800
-categories: [Security, Internet Awareness]
-tags: [Internet, Secure]
-pin : false
+categories: [Internet Awareness]
+tags: [Internet, Security]
 
 image:
   path: /assets/img/headers/Internet-Safety.jpg

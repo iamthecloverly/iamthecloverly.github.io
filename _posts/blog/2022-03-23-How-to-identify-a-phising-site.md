@@ -1,26 +1,33 @@
 ---
 title: "How to Identify a Phishing Scam"
-date: 2022-03-23 12:30:00 +/-0800
-categories: [Phishing]
+date: 2022-03-23 12:30:00 +0530
+categories: [CyberSecurity, Phishing]
 tags: [Phishing, CyberSecurity]
 ---
 
-Phishing is one of the most persistent cyber threats facing businesses and consumers. These scams are virtually as old as email itself, but they’ve remained effective despite considerable cybersecurity advancements.  
+<li>
+Phishing is one of the most persistent cyber threats facing businesses and consumers. These scams are virtually as old as email itself, but they’ve remained effective despite considerable cybersecurity advancements.  </li>
 
-Thankfully, as cybersecurity awareness has improved, more people now know how to spot a basic phishing scam. Looking for spelling errors, not trusting unknown email addresses, and being wary of overly urgent messages are standard practices.  
+<li>
+Thankfully, as cybersecurity awareness has improved, more people now know how to spot a basic phishing scam. Looking for spelling errors, not trusting unknown email addresses, and being wary of overly urgent messages are standard practices.  </li>
 
+<li>
 Despite this, phishing remains the most common attack by far, and it’s an effective one, too. In fact, many large-scale ransomware attacks begin as phishing scams. Let’s find out how phishing attacks continue to scam people and how to identify increasingly advanced scams.
-Phishing Attacks Have Grown More Complicated
+Phishing Attacks Have Grown More Complicated</li>
 
-Part of the on-going success of phishing attacks comes from the fact that they’re becoming more complex. The obvious “Nigerian prince” scams of the past are no longer representative of the current threat landscape.
+<li>
+Part of the on-going success of phishing attacks comes from the fact that they’re becoming more complex. The obvious “Nigerian prince” scams of the past are no longer representative of the current threat landscape.</li>
 
-In Q2 2020, 77.6% of phishing websites used SSL encryption, which many users look for as a sign of legitimacy. Similarly, 91% of these attacks hack legitimate websites to take their domain validated (DV) certificates. These certificates then make the attacks carry the mark of a validated, authorized business.
+<li>
+In Q2 2020, 77.6% of phishing websites used SSL encryption, which many users look for as a sign of legitimacy. Similarly, 91% of these attacks hack legitimate websites to take their domain validated (DV) certificates. These certificates then make the attacks carry the mark of a validated, authorized business.</li>
 
- Clone phishing has also grown more popular. In these attacks, scammers copy a legitimate email to send an exact replica with the link swapped out for a malicious one. If phishers hack into the legitimate sender’s account, there will be no immediate sign that it’s a scam.
-Spotting Advanced Phishing Scams
+<li>
+Clone phishing has also grown more popular. In these attacks, scammers copy a legitimate email to send an exact replica with the link swapped out for a malicious one. If phishers hack into the legitimate sender’s account, there will be no immediate sign that it’s a scam.
+Spotting Advanced Phishing Scams</li>
 
+<li>
 Phishers have become more careful about ensuring their messages don’t look like scams. In many cases, it’s virtually impossible to tell that what you’re reading may be a phishing email without more advanced inspection. Considering how 22% of surveyed employees don’t feel obligated to keep their employers’ information safe, that’s a problem.
-While these advanced scams are concerning, they’re still not perfect. Here are four steps to identifying even a complex phishing attack.
+While these advanced scams are concerning, they’re still not perfect. Here are four steps to identifying even a complex phishing attack.</li>
 
 # 1. Analyze Email Headers
 
@@ -39,6 +46,7 @@ Another important step is to inspect any links within the message. Any domain na
 Copy and paste domain names and websites into search engines or an analyzer like DomainTools to learn more about them. DomainTools can show when the domain was created, and brand-new domains are likely fraudulent. Googling domains can reveal if other users have reported it as a scam.
 
 Many cybercriminals use URL shorteners to hide domains, so always inspect these links before clicking on them. Copy and paste them into a URL checker like getlinkinfo.com or unshorten.it to reveal the full URL. If the full address is long, contains many random characters, or has words unrelated to the legitimate source, it’s likely a scam.
+
 # 3. Look Through the Source Code
 
 If you’re still unsure about an email, you can perform a more in-depth inspection of its source code. Follow the same steps for analyzing the header, but look at all of the source code instead of just the first block.
@@ -46,6 +54,7 @@ If you’re still unsure about an email, you can perform a more in-depth inspect
 Use the search feature in your text editor of choice to look for the phrase “http.” This will help you look through the links in the email, even hidden ones. If you see a domain you don’t recognize or that seems suspicious, Google it or put it through DomainTools to inspect it more closely.
 
 Even legitimate emails can contain hidden external links. For example, they may use a third-party email marketing service, which will show up in this check. However, a quick inspection of these links will reveal their legitimacy.
+
 # 4. Question Even Trusted Sources
 
 Finally, it’s important never to trust any message fully, even if it comes from a trusted source. Many phishing attacks today start by hacking into a legitimate account, such as the recent “Is it you in the video?” scam on Facebook Messenger.
