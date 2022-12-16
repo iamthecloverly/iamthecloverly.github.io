@@ -55,7 +55,7 @@ box.addEventListener('mouseout', function handleMouseOut() {
   box.style.color = 'black';
 });
 ```
-{: file='script.js'}
+{: file='index.js'}
 
 
 ![GIF](/change-text-color-on-mouseover.gif){: width="972" height="589" .w-75 .normal}
@@ -109,7 +109,7 @@ box.addEventListener('mouseout', function handleMouseOut() {
   textDiv.style.color = 'black';
 });
 ``` 
-{: file='script.js'}
+{: file='index.js'}
 
 ![GIF](/change-text-color-when-another-element-hovered.gif){: width="972" height="589" .w-75 .normal}
 
