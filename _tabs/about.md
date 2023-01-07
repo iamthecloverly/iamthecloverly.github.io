@@ -16,6 +16,7 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 
 ## Find out more about me & feel free to connect with me here:
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-SriBalajiSenthilKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecloverly/)](https://www.linkedin.com/in/thecloverly/)
 [![XDA Badge](https://img.shields.io/badge/xda-@TheCloverly-yellowgreen?style=flat&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/thecloverly.11380049/)
 
@@ -33,7 +34,7 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sribalaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamthecloverly&custom_title=SriBalaji's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/iamtheecloverly/"><img alt="Sribalaji's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamthecloverly&theme=dracula&custom_title=SriBalaji's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -41,4 +42,3 @@ I am SriBalaji, known as TheCloverly around the internet, currently pursuing my 
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
-{: .prompt-tip }
