@@ -1,13 +1,13 @@
 ---
 title: "ProjectElixir ROM [Android13] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (RM6785) [OFFICIAL]"
-date: 2022-12-31 15:26:00 +/-0530
+date: 2023-01-14 13:26:00 +/-0530
 categories: [ROMs]
 pin : true
 tags: [ProjectElixir, RM6785]
 img_path: /assets/img/screenshots/Elixir13/
 
 image:
-  path: header.jpg
+  path: header1.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Project Elixir
@@ -34,9 +34,18 @@ image:
 - Ringtone, Notification, Alarm, UI sounds from Goolag Pixel
 
 # Changelog
+**14-01-2023**
+- January ASB (android-13.0.0_r20)
+- ProjectElixir source upstream
+- Upstreamed kernel to 4.14.302
 
-**31-12-2022**
--  Initial official Release
+<details>
+<summary>31st Dec 2022</summary>
+<p>
+<li>Initial official Release</li>
+</p>
+</details>
+
 
 # Screenshots 
 
@@ -56,8 +65,6 @@ image:
   ![Desktop View](15.jpg){: w="200" h="400" }{: .normal }
   ![Desktop View](16.jpg){: w="200" h="400" }{: .normal }
 
-
-
 # Known issues
 
 - Native video calling (ViLTE) and Voice over WiFi (VoWiFi)
@@ -66,9 +73,11 @@ image:
 # Reporting Bugs
 
 - Don’t report bugs if you have any custom kernel or module installed
-- Create new [issue here](https://github.com/iamthecloverly/android_device_realme_RM6785) or Report it [here](https://t.me/SriBalajiHub).
-- Grab a logcat right after the problem has occurred. (Please include at least a few pages of the log, not just the last few lines, unless you know what you’re doing.)
-- If it is a random reboot, grab /proc/last_kmsg. (Do not bother getting a logcat unless you can get it just before the reboot. A logcat after a reboot is useless)
+- If you have magisk installed, uninstall it and see if issue persists
+- Navigate to Developer options in Settings and Generate a full bugreport from there
+- Grab a bugreport right after the problem has occurred
+- Remember to provide as much info as possible. The more info you provide, the more likely that the bug will be solved. Please also do not report known issues. Any bug not reported in the bug report format below may be ignored
+- Create new issue in bug report format linked below and attach bugreport zip you generated from Developer options [on github repo](https://github.com/iamthecloverly/android_device_realme_RM6785) or Report it on [telegram group](https://t.me/SriBalajiHub)
 
 
 # Instructions
@@ -78,7 +87,7 @@ If you are coming from RealmeUI-1.0 or RealmeUI-2.0 or any custom ROM
 - Boot into custom recovery
 - Format data
 - Flash latest build
-- Flash Lineage Recovery
+- Flash Any Stable Recovery
 - Reboot your device once the installation is done
 
 # FAQs
