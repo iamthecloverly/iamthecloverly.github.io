@@ -47,7 +47,7 @@ Our project will always be open source so that others can build and contribute a
 **22/02/2023**
 
 - February ASB (android-13.0.0_r30)
-- ProjectElixir source upstream
+- Crdroid source upstream
 - Fixed double click vibration effect
 - Fixed weak vibrations on calls, notifications and alarms
 - Improved brightness slider curve
