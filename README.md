@@ -12,24 +12,30 @@
 
 ## Features
 
-- Dark/Light Theme Mode
-- Localized UI language
-- Pinned Posts
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date of Posts
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagram & Flowchart
-- Dark/Light Mode Images
-- Embed Videos
-- Disqus/Utterances/Giscus Comments
-- Search
-- Atom Feeds
-- Google Analytics
-- Page Views Reporting
-- SEO & Performance Optimization
+<details>
+  <summary>
+    <i>Click to view features</i>
+  </summary>
+  <p>
+
+  - Dark / Light Theme Mode
+  - Localized UI language
+  - Pinned Posts
+  - Hierarchical Categories
+  - Trending Tags
+  - Table of Contents
+  - Last Modified Date of Posts
+  - Syntax Highlighting
+  - Mathematical Expressions
+  - Mermaid Diagram & Flowchart
+  - Dark / Light Mode Images
+  - Embed Videos
+  - Disqus / Utterances / Giscus Comments
+  - Search
+  - Atom Feeds
+  - Google Analytics
+  - Page Views Reporting
+  - SEO & Performance Optimization
 
 ## Quick Start
 
@@ -84,7 +90,7 @@ Last but not least, thank [JetBrains][jb] for providing the OSS development lice
 
 ## Sponsoring
 
-If you like it, please consider sponsoring me. It will help me to maintain this project better and I would be very grateful!
+If you'd like to sponsor this project, the following options are available.
 
 [![Ko-fi](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/coteschung)
 [![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation]
@@ -92,9 +98,7 @@ If you like it, please consider sponsoring me. It will help me to maintain this 
 
 ## License
 
-This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
-
-<!-- ReadMe links -->
+This work is published under [MIT][mit] License.
 
 [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [cn-donation]: https://sponsor.cotes.page/
