@@ -47,8 +47,14 @@ check_init() {
   fi
 }
 
+check_env() {
+  _check_cli
+  _check_status
+  _check_init
+}
+
 checkout_latest_tag() {
-  tag=$(git describe --tags $(git rev-list --tags --max-count=1))
+  tag=$(git describe --tags "$(git rev-list --tags --max-count=1)")
   git reset --hard "$tag"
 }
 
@@ -77,11 +83,12 @@ init_files() {
   echo "[INFO] Initialization successful!"
 }
 
-check_status
-
-check_init
-
-_no_gh=false
+main() {
+  check_env
+  checkout_latest_tag
+  init_files
+  commit
+}
 
 while (($#)); do
   opt="$1"
