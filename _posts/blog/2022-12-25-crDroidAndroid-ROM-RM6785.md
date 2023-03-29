@@ -2,12 +2,12 @@
 title: "crDroidAndroid v9.0 ROM [Android13] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
 date: 2022-12-25 08:53:00 +0530
 categories: [ROMs]
-pin : true
+pin : fasle
 tags: [crDroidAndroid, crDroid, RM6785]
 img_path: /assets/img/screenshots/crdroid
 
 image:
-  path: header.jpg
+  path:  crdroid.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: crDroid Android
@@ -44,8 +44,21 @@ Our project will always be open source so that others can build and contribute a
 
 # Changelog
 
-*25/12/2022*
-- initial Official Build
+**22/02/2023**
+
+- February ASB (android-13.0.0_r30)
+- Crdroid source upstream
+- Fixed double click vibration effect
+- Fixed weak vibrations on calls, notifications and alarms
+- Improved brightness slider curve
+- Upstreamed kernel to 4.14.304
+
+<details>
+<summary>25/12/2022</summary>
+<p>
+<li>Initial Official Build</li>
+</p>
+</details>
 
 # Screenshots: 
   ![Desktop View](1.png){: w="200" h="400" }{: .normal }
@@ -112,4 +125,4 @@ Enable Advanced restart from `Settings->System->Buttons->Power Menu` and use tha
     - Enable `“com.google.android.gms” and “com.google.android.gms.unstable”`
 
 # Downloads
-**GApps Variant* - [Download](https://github.com/iamthecloverly/releases) 
+**Vanilla** - [Download](https://crdroid.net/RM6785/9) 

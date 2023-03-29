@@ -45,7 +45,7 @@ _check_cli() {
 _check_status() {
   if [[ -n $(git status . -s) ]]; then
     echo "Error: Commit unstaged files first, and then run this tool again."
-    exit -1
+    exit 1
   fi
 }
 
@@ -57,7 +57,8 @@ _check_init() {
   else
     if [[ -f .github/workflows/$ACTIONS_WORKFLOW ]]; then
       # on BSD, the `wc` could contains blank
-      local _count="$(find .github/workflows/ -type f -name "*.yml" | wc -l)"
+      local _count
+      _count=$(find .github/workflows/ -type f -name "*.yml" | wc -l)
       if [[ ${_count//[[:blank:]]/} == 1 ]]; then
         _has_inited=true
       fi
