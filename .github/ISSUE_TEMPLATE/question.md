@@ -1,7 +1,7 @@
 ---
-name: Help Wanted
-about: Need help that is not covered in the tutorial
-labels: 'help wanted'
+name: Question
+about: Issues that differ from other templates
+labels: question
 ---
 
 **NOTE:** Before you start, the following should be completed.
@@ -17,12 +17,4 @@ labels: 'help wanted'
 
 ## Description
 
-<!-- Please describe your need in detail. -->
-
-## Operations you have already tried
-
-<!-- Describe the effort you went through. -->
-
-## Logs/Screenshots
-
-<!-- If applicable, add logs/screenshots to help explain your problem. -->
+<!-- Please describe your question in detail. -->
