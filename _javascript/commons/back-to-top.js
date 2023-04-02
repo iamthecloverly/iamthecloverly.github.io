@@ -2,7 +2,7 @@
  * Reference: https://bootsnipp.com/snippets/featured/link-to-top-page
  */
 $(function() {
-    $(window).on('scroll',() => {
+    $(window).scroll(() => {
         if ($(this).scrollTop() > 50 &&
             $("#sidebar-trigger").css("display") === "none") {
             $("#back-to-top").fadeIn();
@@ -11,7 +11,7 @@ $(function() {
         }
     });
 
-    $("#back-to-top").on('click',() => {
+    $("#back-to-top").click(() => {
         $("body,html").animate({
             scrollTop: 0
         }, 800);
