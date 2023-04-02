@@ -11,11 +11,6 @@
     "alpha-value-notation": "number",
     "selector-not-notation": "simple",
     "color-hex-length": "long",
-    "declaration-block-single-line-max-declarations": 3,
-    "scss/operator-no-newline-after": null,
-    "rule-empty-line-before": [
-      "always",
-      { "ignore": ["after-comment", "first-nested", "inside-block"] }
-    ]
+    "declaration-block-single-line-max-declarations": 3
   }
 }
