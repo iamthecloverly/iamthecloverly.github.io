@@ -159,6 +159,11 @@ blockquote {
   @include prompt("danger", "\f071");
 }
 
+mjx-container {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
 kbd {
   font-family: inherit;
   display: inline-block;
@@ -672,12 +677,6 @@ figure .mfp-title {
 /* mermaid */
 .mermaid {
   text-align: center;
-}
-
-/* MathJax */
-mjx-container {
-  overflow-y: hidden;
-  min-width: auto !important;
 }
 
 /* --- sidebar layout --- */
