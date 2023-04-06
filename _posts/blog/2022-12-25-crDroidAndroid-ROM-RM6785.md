@@ -43,8 +43,15 @@ Our project will always be open source so that others can build and contribute a
 - Native video calling (ViLTE) and Voice over WiFi (VoWiFi)
 
 # Changelog
+**06/04/2023**
 
-## April update coming soon!
+- March ASB (android-13.0.0_r35) and Feature Drop (QPR2)
+- Crdroid source upstream
+- Improved auto brightness
+- Upstreamed kernel to 4.14.311
+- Fixed rounded corners radius on lockscreen
+- Fixed issue where battery settings shows "Connected" instead of "Not charging"
+
 
 **22/02/2023**
 
