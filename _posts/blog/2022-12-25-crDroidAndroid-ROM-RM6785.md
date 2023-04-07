@@ -2,7 +2,7 @@
 title: "crDroidAndroid v9.0 ROM [Android13] Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (G90T Series) (RM6785) [OFFICIAL]"
 date: 2022-12-25 08:53:00 +0530
 categories: [ROMs]
-pin : fasle
+pin : true
 tags: [crDroidAndroid, crDroid, RM6785]
 img_path: /assets/img/screenshots/crdroid
 

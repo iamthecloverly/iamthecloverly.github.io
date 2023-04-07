@@ -2,7 +2,7 @@
 title: "What is Git and Github?"
 date: 2023-02-12 21:21:00 +/-0530
 categories: [Git, Guide, Github]
-pin : true
+pin : false
 tags: [Guide, Git]
 img_path: /assets/img/git
 
