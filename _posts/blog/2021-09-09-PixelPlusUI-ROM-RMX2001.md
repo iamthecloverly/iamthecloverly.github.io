@@ -5,9 +5,10 @@ description: "YET ANOTHER PIXEL ROM!"
 categories: [ROMs]
 pin : false
 tags: [PixelPlusUI, PPUI, RMX2001]
+img_path: /assets/img/
 
 image:
-  path: /assets/img/headers/PPUI_3.10.jpg
+  path: /headers/PPUI_3.10.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: PixelPlusUI

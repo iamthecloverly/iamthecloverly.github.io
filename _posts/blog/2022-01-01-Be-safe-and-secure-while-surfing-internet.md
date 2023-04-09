@@ -3,9 +3,10 @@ title: "Be 100% safe and secure while surfing your favorite websites on the inte
 date: 2022-01-01 12:30:00 +/-0800
 categories: [Internet Awareness]
 tags: [Internet, Security]
+img_path: /assets/img/
 
 image:
-  path: /assets/img/headers/Internet-Safety.jpg
+  path: headers/Internet-Safety.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Internet-Safety

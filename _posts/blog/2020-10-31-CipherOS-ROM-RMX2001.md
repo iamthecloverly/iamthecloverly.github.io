@@ -3,9 +3,10 @@ title: "CipherOS ROM For Realme 6/6i/6s (G90T Series) [UNOFFICIAL]"
 date: 2021-10-31 12:30:00 +/-0800
 categories: [ROMs]
 tags: [CipherOS, RMX2001]
+img_path: /assets/img/
 
 image:
-  path: /assets/img/headers/CipherOS.jpg
+  path: /headers/CipherOS.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: CipherOS
