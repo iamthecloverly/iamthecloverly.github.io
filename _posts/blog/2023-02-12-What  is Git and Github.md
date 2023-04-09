@@ -4,10 +4,10 @@ date: 2023-02-12 21:21:00 +/-0530
 categories: [Git, Guide, Github]
 pin : false
 tags: [Guide, Git]
-img_path: /assets/img/git
+img_path: /assets/img/
 
 image:
-  path: head.png
+  path: /Git/head.png
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Github
