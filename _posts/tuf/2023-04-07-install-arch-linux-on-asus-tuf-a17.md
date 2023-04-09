@@ -1,5 +1,5 @@
 ---
-title: "Install Arch linux of ASUS TUF"
+title: "Install Arch linux on ASUS TUF"
 date: 2023-04-07 22:02:00 +/-0530
 categories: [Laptops, Asus, TUF, Arch linux, liux]
 pin : true
