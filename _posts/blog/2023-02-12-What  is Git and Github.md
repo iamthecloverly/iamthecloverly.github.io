@@ -7,7 +7,7 @@ tags: [Guide, Git]
 img_path: /assets/img/git
 
 image:
-  path: head.bmp
+  path: head.png
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Github
