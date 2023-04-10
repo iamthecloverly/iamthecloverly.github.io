@@ -22,6 +22,6 @@
     "rollup": "^3.20.2",
     "rollup-plugin-license": "^3.0.1",
     "stylelint": "^15.3.0",
-    "stylelint-config-standard-scss": "^7.0.1"
+    "stylelint-config-standard-scss": "^8.0.0"
   }
 }
