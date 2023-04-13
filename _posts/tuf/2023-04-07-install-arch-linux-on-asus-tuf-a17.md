@@ -2,7 +2,7 @@
 title: "Install Arch linux on ASUS TUF"
 date: 2023-04-07 22:02:00 +/-0530
 categories: [Laptops, Asus, TUF, Arch linux, liux]
-pin : true
+pin : false
 tags: [Laptops, Linux, Asus, TUF, Arch linux, Linux]
 img_path: /assets/img/tuf/
 
