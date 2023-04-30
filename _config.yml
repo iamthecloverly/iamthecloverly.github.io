@@ -19,7 +19,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SriBalaji's Projects                          # the main title
+title: SriBalaji                          # the main title
 
 tagline: View my projects Including open source project, rom, apps, porting, etc   # it will display as the sub-title
 
