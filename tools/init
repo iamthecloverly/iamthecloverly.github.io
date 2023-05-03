@@ -73,10 +73,17 @@ init_files() {
     rm -f _config.yml.$TEMP_SUFFIX
   fi
 
-  # remove the other fies
+  # remove the other files
   rm -rf _posts/*
 
-  # save changes
+  # build assets
+  npm i && npm run build
+
+  # track the js output
+  _sedi "/^assets.*\/dist/d" .gitignore
+}
+
+commit() {
   git add -A
   git commit -m "chore: initialize the environment" -q
 
