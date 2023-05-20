@@ -45,9 +45,6 @@ layout: page
     <div class="card post-preview">
       <a href="{{ post.url | relative_url }}">
         <div class="card-body">
-          {% if post.image %}
-          <img src="{{ post.img_path }}/{{ post.image.path }}" class="card-img-left post-image" alt="{{ post.image.alt }}" width="{{ post.image.width }}" height="{{ post.image.height }}">
-          {% endif %}
           <h1 class="card-title">
             {{ post.title }}
           </h1>
@@ -91,23 +88,6 @@ layout: page
     <!-- .post-review -->
   {% endfor %}
 </div>
-
-<style>
-  /* hide post card image on mobile devices */
-  @media screen and (max-width: 767px) {
-    .post-image {
-      display: none;
-    }
-  }
-  
-  .post-image {
-    width: 200px;
-    height: auto;
-    float: left;
-    margin-right: 20px;
-    border-radius: 3px;
-  }
-  </style>
 <!-- #post-list -->
 
 {% if paginator.total_pages > 0 %}
