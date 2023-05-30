@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gemspec
-Ruby >= 3.2, < 4.0
+
 
 group :test do
   gem "html-proofer", "~> 5.0"
@@ -14,6 +14,7 @@ end
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
+  gem "Ruby". ">= 3.2", "< 4.0"
 end
 
 # Performance-booster for watching directories on Windows
