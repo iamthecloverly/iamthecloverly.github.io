@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://www.sribalaji.tech//sitemap.xml
+Sitemap: https://www.sribalaji.eu.org//sitemap.xml
