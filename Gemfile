@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gemspec
+Ruby >= 3.2, < 4.0
 
 group :test do
   gem "html-proofer", "~> 5.0"
