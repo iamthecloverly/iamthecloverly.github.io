@@ -2,7 +2,7 @@
 title: "ProjectElixir ROM [Android13] For Realme 6, 6i, 6s and Realme 7, Narzo 20 Pro, Narzo 30 4G (RM6785) [OFFICIAL]"
 date: 2022-12-31 13:26:00 +/-0530
 categories: [ROMs]
-pin : true
+pin : false
 tags: [ProjectElixir, RM6785]
 img_path: /assets/img/screenshots/Elixir3.7/
 
