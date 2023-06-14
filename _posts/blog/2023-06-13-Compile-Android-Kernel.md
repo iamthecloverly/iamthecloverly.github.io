@@ -1,6 +1,5 @@
 ---
 title: "Guide to Compile Android Kernel"
-layout: post
 date: 2023-06-13 23:35:00 +/-0530
 categories: [Android Project, Kernel, AOSP]
 pin: false
